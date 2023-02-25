@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import PIL
 import urllib
-from pybboxes import BoundingBox
 
 def bounding_boxes(img):
     model = YOLO("yolov8n.pt")
