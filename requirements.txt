@@ -5,4 +5,3 @@ pandas
 seaborn
 ipykernel
 streamlit
-opencv-python-headless
